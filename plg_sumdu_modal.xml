@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>plg_sumdu_modal</name>
+	<author>Sergei Holovanenko</author>
+	<creationDate>November 2018</creationDate>
+	<copyright>Public copyright license</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>serhii.holovanenko@gmail.com</authorEmail>
+	<!--<authorUrl>www.localhost</authorUrl>-->
+	<version>1.0.0</version>
+	<description>PLG_CONTENT_MODAL</description>
+	<files>
+		<filename plugin="plg_sumdu_modal">plg_sumdu_modal.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.plg_sumdu_modal.ini</language>
+		<language tag="en-GB">en-GB.plg_sumdu_modal.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+		</fields>
+	</config>
+</extension>
